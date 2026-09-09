@@ -13,6 +13,12 @@ Programa desarrollado en Python para procesar automáticamente archivos Excel de
 - Aplicar formato profesional.
 - Guardar el reporte generado en Excel.
 
+## Vista del reporte generado
+
+El programa procesa automáticamente los datos de ventas y genera un resumen como el siguiente:
+
+![Resumen de ventas](imagenes/resumen_ventas.png)
+
 ## Tecnologías utilizadas
 
 - Python
