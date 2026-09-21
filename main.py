@@ -47,7 +47,7 @@ for celda in ws[1]:
         columnas[nombre] = celda.column
 
 print("COLUMNAS DETECTADAS:")
-print(columnas)
+print(columnas) 
 
 
 # ==============================
